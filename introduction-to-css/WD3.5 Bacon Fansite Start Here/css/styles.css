@@ -12,3 +12,8 @@ h1 {
 .broc {
   background-color: red;
 }
+
+/* ID SELECTORS */
+#heading {
+  color: blue;
+}
