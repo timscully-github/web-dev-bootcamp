@@ -1,7 +1,14 @@
+/* TAG SELECTORS */
 h1 {
   color: red;
   font-size: 15px;
 }
-img {
+
+/* Class SELECTORS */
+.bacon {
+  background-color: green;
+}
+
+.broc {
   background-color: red;
 }
