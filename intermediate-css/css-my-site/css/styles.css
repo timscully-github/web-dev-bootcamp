@@ -42,3 +42,13 @@ h2, h3 {
   left: 300px;
   bottom: 300px;
 }
+
+.email-icon {
+  width: 75px;
+  height: auto;
+}
+
+.banner-icon {
+  width: 75px;
+  height: auto;
+}
