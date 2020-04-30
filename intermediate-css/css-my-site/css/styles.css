@@ -9,14 +9,27 @@ body {
 
 .middle-container {
   background-color: #fbcffc;
-  height: 200px;
-  width: 200px;
+  height: 100px;
+  width: 100px;
+  position: absolute;
 }
 
 .bottom-container {
   background-color: #be79df;
-  height: 200px;
-  width: 200px;
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  left:100px;
+  top:100px;
+}
+
+.bottom-container2 {
+  background-color: black;
+  height: 100px;
+  width: 100px;
+  left:200px;
+  top:200px;
+  position: absolute;
 }
 
 h1 {
