@@ -22,3 +22,7 @@ body {
 h1 {
   margin: 0;
 }
+
+.web {
+  text-decoration: underline;
+}
