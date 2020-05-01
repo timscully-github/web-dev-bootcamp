@@ -2,7 +2,6 @@ body {
   margin: 0;
   text-align: center;
   font-family: 'Varela Round', sans-serif;
-  font-size: 200%;
 }
 
 .top-container {
@@ -23,11 +22,20 @@ body {
 h1 {
   font-family: 'Patrick Hand', cursive;
   font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  color: #FFFFFF;
 }
 
-h2, h3 {
+h2 {
   font-family: 'Montserrat', sans-serif;
   font-size: 2.5rem;
+  color: #FFFFFF;
+}
+
+a, h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
+  color: #11999E;
 }
 
 .web {
@@ -54,4 +62,8 @@ h2, h3 {
 .banner-icon {
   width: 75px;
   height: auto;
+}
+
+.fw-norm {
+  font-weight: normal;
 }
