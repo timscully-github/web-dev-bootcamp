@@ -41,8 +41,10 @@ h3 {
   color: #11999E;
 }
 
-p {
+.profile, .contact-me {
   color: #40514E;
+  width: 60%;
+  margin: 0 auto;
 }
 
 .skill-row {
@@ -50,11 +52,6 @@ p {
   margin: 100px auto;
   text-align: left;
   line-height: 2;
-}
-
-.contact-me {
-  width: 50%;
-  margin: 0 auto;
 }
 
 .web {
