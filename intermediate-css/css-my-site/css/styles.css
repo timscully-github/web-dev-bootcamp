@@ -38,6 +38,11 @@ a, h3 {
   color: #11999E;
 }
 
+.skill-row {
+  width: 50%;
+  margin: 0 auto;
+}
+
 .web {
   text-decoration: underline;
 }
