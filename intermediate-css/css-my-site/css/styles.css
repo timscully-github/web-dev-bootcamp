@@ -52,6 +52,11 @@ p {
   line-height: 2;
 }
 
+.contact-me {
+  width: 50%;
+  margin: 0 auto;
+}
+
 .web {
   text-decoration: underline;
 }
