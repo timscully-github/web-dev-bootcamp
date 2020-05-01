@@ -40,7 +40,9 @@ a, h3 {
 
 .skill-row {
   width: 50%;
-  margin: 0 auto;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
 }
 
 .web {
